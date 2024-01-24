@@ -1,0 +1,23 @@
+(nurse task will be added by Receptionist)
+Receptionist:
+Add Nurse Task:
+(patient_uid (select-option)),
+(patient_name (auto-add-by-uid)),
+(room_no (input-box)),
+(description_patient_disease (text-area)),
+(medicine (checkbox(array(serialize/unserialize (insert)),
+
+
+
+
+
+
+
+Nurse task:
+
+(when_nurse_select_checkbox_to_complete_the_task nurse_uid and user_img will add into daily_nurse_task_table and show the nurse img who complete the task)
+1:(chekbox_complete_task) (sl) (patine_uid) (patient_name) (room_no)(description_patent_disease) (medicine)  
+
+2:(chekbox_complete_task) (sl) (patine_uid) (patient_name) (room_no)(description_patent_disease) (medicine) 
+
+ 

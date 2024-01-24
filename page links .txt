@@ -1,0 +1,1 @@
+logout :  http://localhost/my%20hospital/logout.php
