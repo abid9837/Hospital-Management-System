@@ -1,0 +1,57 @@
+.right_main_start{
+    width: 100%;
+
+
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    gap: 50px;
+    
+
+}
+.cards{
+    width: 290px;
+    height: auto;
+    background-color: rgb(194, 119, 241);
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+.divider_divAddtask{
+    background-color: red;
+    
+}
+.userImg_patient{
+    width: 80px;
+    height: 80px;
+    border: 4px solid rgb(54, 209, 244);
+    overflow: hidden;
+
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

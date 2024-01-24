@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#login_main_section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("../photos/local/flat-lay-medical-mask-with-stethoscope-pills.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+.overlay_main{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.362);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 200px;
+}
+.overlay_main form{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.307);
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.overlay_main form input{
+    background-color: rgba(127, 255, 212, 0.405);
+}
+.overlay_main form input:focus{
+    background-color: rgba(127, 255, 212, 0.477);
+}
+.overlay_main form select{
+    background-color: rgba(127, 255, 212, 0.405);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
